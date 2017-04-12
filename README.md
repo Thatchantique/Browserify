@@ -35,8 +35,3 @@ Intégration dans le fichier .html :
 ```
     <script src="js/bundle.js"></script>
 ```
-
-## Alternative
-WebPack est une alternative à Browserify.
-Il supporte les différents systèmes de modules (__CommonJS, AMD, ES2015, ...__).
-Il construit un graphe des dépendances et se configure via le fichier : __webpack.config.js__.
